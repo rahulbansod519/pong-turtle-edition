@@ -15,7 +15,7 @@ This is a simple implementation of the classic Pong game. Players control paddle
 ## Installation
 
 1. Clone the repository:
-2. git clone https://github.com/rahulbansod519/pong-game.git
+2. git clone https://github.com/rahulbansod519/pong-turtle-edition.git
 
 2. Navigate to the project directory: cd pong-game
 3. Run the game: python main.py
